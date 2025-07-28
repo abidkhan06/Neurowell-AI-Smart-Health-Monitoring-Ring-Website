@@ -19,7 +19,7 @@ const LogIn = () => {
                 </div>
 
                 <div className='flex flex-col gap-[2px] mb-3'>
-                    <label htmlFor="email" className='text-sm'>Email</label>
+                    <label htmlFor="email" className='text-sm'>Modified email Email</label>
                     <input
                         type="text"
                         id="email"
